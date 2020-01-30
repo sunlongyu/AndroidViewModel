@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidViewModel01</string>
+    <string name="addNum">+</string>
+    <string name="minusNum">-</string>
+    <string name="key_number">KEY_NUMBER</string>
+    <string name="shp_data">SHP_DATA</string>
+</resources>
